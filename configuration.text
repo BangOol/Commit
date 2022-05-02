@@ -1,0 +1,7 @@
+1. tomcat - Open Server Configuration
+1.1 <Context path="" docBase="C:/Users/yjg02/git/Commit"></Context>
+1.2 <Connector port="80" protocol="HTTP/1.1" connectionTimeout="20000" redirectPort="8443"/>
+
+2. 확장
+2.1 Tomcat for java
+2.2 extension pack for java
